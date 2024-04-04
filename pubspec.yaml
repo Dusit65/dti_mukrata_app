@@ -1,0 +1,49 @@
+name: money_share_project
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+dependencies:
+  animated_notch_bottom_bar: ^1.0.2
+  convex_bottom_bar: ^3.2.0
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+  flutter_image_slider: ^0.0.2
+  flutter_launcher_icons: ^0.13.1
+  font_awesome_flutter: ^10.6.0
+  google_fonts: 6.1.0
+  image_picker: ^1.0.7
+  intl: ^0.19.0
+  introduction_screen: ^3.1.12
+  salomon_bottom_bar: ^3.3.2
+  url_launcher: ^6.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+  # fonts:
+  #   - family: Kanit
+  #     fonts:
+  #       - asset: assets/fonts/Kanit-Bold.ttf
+  #       - asset: assets/fonts/Kanit-Regular.ttf
+  #       - asset: assets/fonts/Kanit-Italic.ttf
+  #         style: italic
