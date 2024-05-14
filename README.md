@@ -1,16 +1,17 @@
 # dti_mukrata_app
 
-A new Flutter project.
+Created By : Dusit Pakdeekunakorn DTU-SAU
 
-## Getting Started
+## Splash Screen
+<image src="https://github.com/Dusit65/thailand_province_project/blob/main/spsrc.jpg" width="150px">
 
-This project is a starting point for a Flutter application.
+## introduction screen
 
-A few resources to get you started if this is your first Flutter project:
+<!--[screenshot-1707380521215](https://github.com/Dusit65/dti_like_project/assets/113957255/b2975bc8-7865-4b20-9f77-01fab565463d)-->
+<image src="https://github.com/Dusit65/thailand_province_project/blob/main/intro.jpg" width="150px">
+  
+## Screen UI
+<image src="https://github.com/Dusit65/thailand_province_project/blob/main/ui1.jpg" width="150px">
+  
+<image src="https://github.com/Dusit65/thailand_province_project/blob/main/ui2.jpg" width="150px">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
